@@ -4,6 +4,8 @@ Recently graduated mechatronics engineer with 3 years of professional experience
 
 Able to perform engineering management throughout the product life cycle as well as experience in leading international multidisciplinary teams. Recognized for my skills in effective management of multiple engineering projects, risk analysis, communication, emotional intelligence and creative technical problem solving. I am looking for challenging opportunities that allow me to **be involved in the development of impactful technologies** for the betterment of the human condition on Earth.
 
+![Ivan Torres](https://github.com/Neonauta/Neonauta/assets/95337281/190d5818-e741-409b-93dd-2880e40dc9aa)
+
 ## Relevant Embedded Systems Projects 👨‍💻
 
 <!--
