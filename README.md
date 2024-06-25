@@ -6,7 +6,8 @@ Able to perform engineering management throughout the product life cycle as well
 
 ## Relevant Embedded Systems Projects 👨‍💻
 
-
+<!--
+![CV - Ivan Torres](https://github.com/Neonauta/Neonauta/assets/95337281/df4fb333-a82d-4efa-bf1b-362244b28be1)
 
 
 
