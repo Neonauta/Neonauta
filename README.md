@@ -1,4 +1,12 @@
-## Hi there 👋
+## My All-in-One about me! 👋
+
+Recently graduated mechatronic engineer with 3 years of professional experience in the management and development of embedded systems within the technology sector in Mexico; managing, designing and developing embedded systems in instrumentation for solid propellant research, on-board computers for high power rockets as well as in the design and implementation of graphical interfaces for ground stations. 
+
+Able to perform engineering management throughout the product life cycle as well as experience in leading international multidisciplinary teams. Recognized for my skills in effective management of multiple engineering projects, risk analysis, communication, emotional intelligence and creative technical problem solving. I am looking for challenging opportunities that allow me to be involved in the development of impactful technologies for the authentic satisfaction of customer needs.
+
+
+
+
 
 <!--
 **Neonauta/Neonauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
