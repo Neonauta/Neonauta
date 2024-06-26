@@ -29,12 +29,15 @@ Nowadays, <strong>I am Embedded Systems Coordinator<strong> in a startup called 
 
 
 ## Relevant Embedded Systems Projects 👨‍💻
+### Semiautonomous Wheelchair for Assistance Support in Rehabilitation Centers 🦼
+<p align="justify">
+Degree project in which I was in charge of the complete mechanical design and CAD modeling in Solidworks of the different conduction systems, energy, postural reconfiguration of the patient and information processing. Added to this I developed a high fidelity prototype of a mobile application called Fisio Smart that has as end user the physical therapist so that the chair is a technological support that quantifies the rehabilitation process of the patient and thus also support the physical therapist in the physical rehabilitation process of their patients using the VDI-2206 methodologies for the development of mechatronic projects and Design Thinking for the mobile application.
+</p>
 
-<!--
+![Readme Github](https://github.com/Neonauta/Neonauta/assets/95337281/f6ee1ef2-c063-4168-8814-63c4cff6993c)
+
+<!--!
 ![CV - Ivan Torres](https://github.com/Neonauta/Neonauta/assets/95337281/df4fb333-a82d-4efa-bf1b-362244b28be1)
-
-
-
 <!--
 **Neonauta/Neonauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
