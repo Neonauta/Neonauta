@@ -35,7 +35,7 @@ Degree project in which I was in charge of the complete mechanical design and CA
 </p>
 
 ![Readme Github](https://github.com/Neonauta/Neonauta/assets/95337281/f6ee1ef2-c063-4168-8814-63c4cff6993c)
-
+[Fisio Smart App](https://www.behance.net/gallery/156310045/Fisio-Smart-mi-primer-proyecto-en-UX-Design)
 <!--!
 ![CV - Ivan Torres](https://github.com/Neonauta/Neonauta/assets/95337281/df4fb333-a82d-4efa-bf1b-362244b28be1)
 <!--
