@@ -12,6 +12,22 @@ Able to perform engineering management throughout the product life cycle as well
 Nowadays, <strong>I am Embedded Systems Coordinator<strong> in a startup called Antares Aerospace where we develop technology in different industries focusing on the development of the space sector in Mexico and the LATAM Region. Also, <strong>I am working as a consultor in topics like implementing technology and digitalization<strong> in different levels for small and medium-sized enterprises. Last but not least, as you can see, <strong>now I am improving my skills in software development<strong> since I have learned all about embedded systems, electronic and mechanical design and why not, now start to improve my skills in software development.
 </p>
 
+### Programming Languages.
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Product Design and Development Tools.
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+
+### Management and Methodology Implementation Tools.
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+
 ## Relevant Embedded Systems Projects 👨‍💻
 
 <!--
