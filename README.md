@@ -12,11 +12,11 @@ Able to perform engineering management throughout the product life cycle as well
 Nowadays, <strong>I am Embedded Systems Coordinator<strong> in a startup called Antares Aerospace where we develop technology in different industries focusing on the development of the space sector in Mexico and the LATAM Region. Also, <strong>I am working as a consultor in topics like implementing technology and digitalization<strong> in different levels for small and medium-sized enterprises. Last but not least, as you can see, <strong>now I am improving my skills in software development<strong> since I have learned all about embedded systems, electronic and mechanical design and why not, now start to improve my skills in software development.
 </p>
 
-### Programming Languages.
+### Product Design and Development Tools.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Management and Methodology Implementation Tools.
@@ -25,10 +25,10 @@ Nowadays, <strong>I am Embedded Systems Coordinator<strong> in a startup called 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### Product Design and Development Tools.
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+### Programming Languages.
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Relevant Embedded Systems Projects 👨‍💻
 ### Semiautonomous Wheelchair for Assistance Support in Rehabilitation Centers 🦼
