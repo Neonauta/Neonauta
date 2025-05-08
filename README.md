@@ -1,4 +1,4 @@
-## My All-in-One about me! 🐉
+## My All-in-One about me! 🐉 (I'm still working in this section)
 
 <p align="justify">
 Mechatronics engineer with 5 years of professional experience in the <strong>management and development of embedded systems<strong> within the technology sector in Mexico; managing, designing and developing embedded systems in instrumentation for solid propellant research, on-board computers for high power rockets as well as in the design and implementation of graphical interfaces for ground stations.
